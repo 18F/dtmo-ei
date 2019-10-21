@@ -20,6 +20,20 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | 5 | Improve the technology infrastructure for DTMO. | Reduce time to update or ship |
 | 6 | Improve the content management and editorial workflow for DTMO. | Reduce time to update or ship|
 
+#### Roadmap
+[WIP](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)
+
+#### Milestones
+| Sprint | Dates | Priorities | Link |
+|:---|:---|:---|:---|
+| **KO** | October 7-8 | Align on PA, Objectives for Engagment, and methods for execution | [Materials](https://drive.google.com/open?id=11H5eZ3PA62sPDAWnPiCWJjNyysGEgAan) :lock: |
+| **1** | 10/15-28 | * Per Diem Calculator <br /> * Tactical research use cases <br /> * Qualitative research broad use cases| [Zenhub Milestone](https://app.zenhub.com/workspaces/dtmo-ei-5d84e9011201de0001b6aaa1/board?milestones=DTMO%20E%26I%20%E2%80%93%20Sprint%201%232019-10-25&filterLogic=any&repos=209816055) |
+| **2** | 10/29-11/11 | TBD | TBD |
+| **3** | 11/12-25 | TBD | TBD | 
+| **RG** | 11/26-12/2 | TBD | TBD |
+| **4** | 12/3-12/16 | TBD | TBD |
+
+
 ### Partner details
 #### Key stakeholders
 * Betsey Grundy, Strategy Plans & Initiatives Division, Main POC
@@ -46,8 +60,9 @@ The final deliverables included a [deck](https://docs.google.com/presentation/d/
 * Shawnique Muller - Researcher. Part-time (16hrs)
 * Aditi Rao - UX Researcher. Full-time (32hrs) Onboarding 10/24
 
-#### Roadmap
+#### Project Management
 [ZenHub](https://app.zenhub.com/workspaces/dtmo-ei-5d84e9011201de0001b6aaa1/board?repos=209816055)
+
 #### Key links
 * [Project Drive Folder](https://drive.google.com/drive/u/0/folders/1cgvH9QaTnxgET2WJt7KczDUwACjxTfnS)
 * [Team Charter](https://docs.google.com/document/d/1Jsy6qIJu34YZoV_zMg9UBtUdkAZBf_s_T-QKGw3Zngw/edit#heading=h.jl3j4vv7aq89)
