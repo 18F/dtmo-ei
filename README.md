@@ -15,7 +15,7 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 |---------|------|----------------------------------|
 | 1 | Map the site navigation to the traveler's needs. | Traveler Sentiment |
 | 2 | Make relevant travel information faster to find. | Decrease all site activity – time on site, clicks, dropoff rate |
-| 3 | Make the JTR more usable. | Increase Tier 1 success rate, decrease referrals | 
+| 3 | Make the JTR more usable. – Deprioritized | Increase Tier 1 success rate, decrease referrals | 
 | 4 | Improve the capability to update and distribute the JTR. | Reduce time to update or ship |
 | 5 | Improve the technology infrastructure for DTMO. | Reduce time to update or ship |
 | 6 | Improve the content management and editorial workflow for DTMO. | Reduce time to update or ship|
@@ -27,12 +27,11 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | Sprint | Dates | Priorities | Link |
 |:---|:---|:---|:---|
 | **KO** | October 7-8 | Align on PA, Objectives for Engagment, and methods for execution | [Materials](https://drive.google.com/open?id=11H5eZ3PA62sPDAWnPiCWJjNyysGEgAan) :lock: |
-| **1** | 10/15-28 | * Per Diem Calculator <br /> * Tactical research use cases <br /> * Qualitative research broad use cases| [Zenhub Milestone](https://app.zenhub.com/workspaces/dtmo-ei-5d84e9011201de0001b6aaa1/board?milestones=DTMO%20E%26I%20%E2%80%93%20Sprint%201%232019-10-25&filterLogic=any&repos=209816055) |
-| **2** | 10/29-11/11 | TBD | TBD |
-| **3** | 11/12-25 | TBD | TBD | 
-| **RG** | 11/26-12/2 | TBD | TBD |
-| **4** | 12/3-12/16 | TBD | TBD |
-
+| **1** | 10/15-28 | * Per Diem Calculator <br /> * Tactical research use cases <br /> * Qualitative research broad use cases| [Sprint Milestone](https://github.com/18F/dtmo-ei/milestone/1) |
+| **2** | 10/29-11/11 |  * Hugo Site Infrastructure <br /> * Content Audit <br /> * Custom USWDS Styling Recommendation| [Sprint Milestone](https://github.com/18F/dtmo-ei/milestone/2)|
+| **3** | 11/12-12/2 |  * Handbook Template Examples / Improved Hugo Support <br /> * Information Architecture Recommendation <br /> * User Research Summary| [Sprint Milestone](https://github.com/18F/dtmo-ei/milestone/3)|
+| **4** | 12/3-12/16 |  * Handbook Template Examples / Improved Hugo Support <br /> * Evaluation Tests for IA + Content <br /> * JTR Transition recommendation / test | [Sprint Milestone](https://github.com/18F/dtmo-ei/milestone/4)|
+| **5** | 12/17-End of Engagement |  * TBD <br /> * TBD <br /> * TBD | [Sprint Milestone](https://github.com/18F/dtmo-ei/milestone/5)|
 
 ### Partner details
 #### Key stakeholders
@@ -57,8 +56,9 @@ The final deliverables included a [deck](https://docs.google.com/presentation/d/
 * Colin Murphy - Lead & Product Manager. Full-time (32hrs)
 * Matt Henry - Consulting engineer. Full-time (32hrs)
 * Cordelia Yu - Content strategist. Pert-time (16hrs)
-* Shawnique Muller - Researcher. Part-time (16hrs)
-* Aditi Rao - UX Researcher. Full-time (32hrs) Onboarding 10/24
+* Shawnique Muller - Researcher. Part-time (16hrs) (10/15-10/28)
+* Aditi Rao - UX Researcher. Full-time (32hrs) (10/24 – End of Project)
+• Erin Strenio – Content design, Full-time (32hrs) (11/18 – End of Project)
 
 #### Project Management
 [ZenHub](https://app.zenhub.com/workspaces/dtmo-ei-5d84e9011201de0001b6aaa1/board?repos=209816055)
