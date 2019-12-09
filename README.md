@@ -5,6 +5,9 @@
 ### About DTMO
 The DTMO serves as the focal point for commercial travel within DoD, providing central oversight for commercial travel management, travel policy and implementation, travel card program management, customer support and training, functional oversight of the Defense Travel System (DTS), and allowance program management. By centralizing travel functions under one organization, the Department is able to standardize management practices, leverage economies of scale, reduce administrative costs, and work towards a common set of goals. DTMO is focused on travel and allowance reform that simplifies travel policy and drives compliance, expands strategic sourcing opportunities, improves programs/processes, leverages current technologies, and reduces the overall cost of travel without impairing DoD’s mission.
 
+[Current Site](https://www.defensetravel.dod.mil/)
+[Requires Unique Certificates](https://www.thursby.com/forum/viewtopic.php?t=1331)
+
 #### Elevator pitch
 This is an E&I engagement and follow-on from a PA. The focus is on their site and tools used to assist civilians and members of the DoD with travel, and within the constraints of DoD policy. This work will focus on building out a traveler-centric UX/content strategy and improve DTMO’s tech stack to improve procedural efficiencies. 
 
@@ -15,13 +18,17 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 |---------|------|----------------------------------|
 | 1 | Map the site navigation to the traveler's needs. | Traveler Sentiment |
 | 2 | Make relevant travel information faster to find. | Decrease all site activity – time on site, clicks, dropoff rate |
-| 3 | Make the JTR more usable. – Deprioritized | Increase Tier 1 success rate, decrease referrals | 
+| 3 | Deprioritized to focus on transition of content: Make the JTR more usable.  | Increase Tier 1 success rate, decrease referrals | 
 | 4 | Improve the capability to update and distribute the JTR. | Reduce time to update or ship |
 | 5 | Improve the technology infrastructure for DTMO. | Reduce time to update or ship |
 | 6 | Improve the content management and editorial workflow for DTMO. | Reduce time to update or ship|
 
 #### Roadmap
 [WIP](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)
+
+#### Working Environment
+[Repo](https://github.com/18F/dtmo-hugo)
+[Staging Environment](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)
 
 #### Milestones
 | Sprint | Dates | Priorities | Link |
