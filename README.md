@@ -28,13 +28,12 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 [E&I Prioritization](https://app.mural.co/t/gsa6/m/gsa6/1575925501082/282b2068b64b083531bcfce185d781e9851b9d02)
 
 #### Working Environment & WIP Pages
-[Repo](https://github.com/18F/dtmo-hugo)
-[TDY Travel 101 – Table of Contents Template](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/handbook/travel-tdy/)
-[Booking Travel – Landing Page Template](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/handbook/travel-tdy/booking-travel/)
-[Create an Authorization – Handbook Template](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/handbook/travel-tdy/booking-travel/create-authorization/)
-[Constructed Travel – Handbook Template](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/handbook/travel-tdy/booking-travel/constructed-travel/)
-[Kitchen Sink – USWDS Component Documentation](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/about/kitchen-sink/)
-[Staging Environment](https://app.mural.co/t/gsa6/m/gsa6/1571689863769/be4a1e5ed409e3376eb8f2feb432f632c5a746a8)
+* [Repo](https://github.com/18F/dtmo-hugo)
+* [TDY Travel 101 – Table of Contents Template](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/handbook/travel-tdy/)
+* [Booking Travel – Landing Page Template](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/handbook/travel-tdy/booking-travel/)
+* [Create an Authorization – Handbook Template](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/handbook/travel-tdy/booking-travel/create-authorization/)
+* [Constructed Travel – Handbook Template](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/handbook/travel-tdy/booking-travel/constructed-travel/)
+* [Kitchen Sink – USWDS Component Documentation](https://cg-3e146be5-f84c-43bb-a22a-597f44ab2c26.app.cloud.gov/preview/18f/dtmo-hugo/create-uswds-theme/about/kitchen-sink/)
 
 #### Milestones
 | Sprint | Dates | Priorities | Link |
