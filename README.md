@@ -42,8 +42,10 @@ We're coming up with tools that will simplify the travel program for the DoD tra
 | **1** | 10/15-28 | * Per Diem Calculator <br /> * Tactical research use cases <br /> * Qualitative research broad use cases| [Sprint Milestone](https://github.com/18F/dtmo-ei/milestone/1) |
 | **2** | 10/29-11/11 |  * Hugo Site Infrastructure <br /> * Content Audit <br /> * Custom USWDS Styling Recommendation| [Sprint Milestone](https://github.com/18F/dtmo-ei/milestone/2)|
 | **3** | 11/12-11/25 |  * Handbook Template Examples / Improved Hugo Support <br /> * Information Architecture Recommendation <br /> * User Research Summary| [Sprint Milestone](https://github.com/18F/dtmo-ei/milestone/3)|
+| **Mid Point Check-In** | 11/19 |  Share Progress, Align on Engagement Priorities and Discuss the case for an ongoing PM | [Materials](https://drive.google.com/open?id=1ba9N60Sy8kG9Iuoa4UXKA3cfKEp5e_lF) :lock: |
 | **FLEX** | 11/26-12/2 |  Opportunity to refine work from Sprint 3 or prep for Sprint 4 | None|
 | **4** | 12/3-12/16 |  * Handbook Template Examples / Improved Hugo Support <br /> * Evaluation Tests for IA + Content <br /> * JTR Transition recommendation / test <br /> * Final Onsite Worksessions | [Sprint Milestone](https://github.com/18F/dtmo-ei/milestone/4)|
+| **Final Worksession** | 12/10-11 |  Pair on Research and Content, Brief on Tech and Github, Align on Final Delivery | [Materials](https://drive.google.com/open?id=15piQZz29pf2ajr2qOMUc6e5rRhlOQwi7) :lock: |
 | **5** | 12/17-01/10/20 |  * Research Synthesis & Ongoing Plan <br /> * Site Navigation, Template, Component Refinements <br /> * Editorial, Technical and JTR Recommendations – Documentation | [Sprint Planning Mural](https://app.mural.co/t/gsa6/m/gsa6/1575396097216/a261fbd8fc2969821a7127c3379cfd7d06b7fcd9)|
 
 ### Partner details
